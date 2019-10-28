@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PulsePhysiologyEngine/Demos/Scenes/ScreenSpace.unity
+  isLoaded: 1
+  isActive: 1

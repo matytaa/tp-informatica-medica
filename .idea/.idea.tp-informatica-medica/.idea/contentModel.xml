@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DebugGUI" t="Include">
+          <e p="Attributes" t="Include">
+            <e p="DebugGUIGraphAttribute.cs" t="Include" />
+            <e p="DebugGUIPrintAttribute.cs" t="Include" />
+          </e>
+          <e p="DebugGUI.cs" t="Include" />
+          <e p="Examples" t="Include">
+            <e p="DebugGUIExamples.cs" t="Include" />
+          </e>
+          <e p="README.txt" t="Include" />
+        </e>
+        <e p="PulsePhysiologyEngine" t="Include">
+          <e p="Demos" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="PulseActionOnClickEditor.cs" t="Include" />
+              </e>
+              <e p="PulseActionOnClick.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PulseDataConsumerEditor.cs" t="Include" />
+              <e p="PulseEngineControllerEditor.cs" t="Include" />
+              <e p="PulseEngineDriverEditor.cs" t="Include" />
+            </e>
+            <e p="PulseCSVReader.cs" t="Include" />
+            <e p="PulseData.cs" t="Include" />
+            <e p="PulseDataConsumer.cs" t="Include" />
+            <e p="PulseDataLineRenderer.cs" t="Include" />
+            <e p="PulseDataNumberRenderer.cs" t="Include" />
+            <e p="PulseDataSource.cs" t="Include" />
+            <e p="PulseEngineController.cs" t="Include" />
+            <e p="PulseEngineDriver.cs" t="Include" />
+            <e p="PulseRandomValueGenerator.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="InformaticaMedica" t="Include">
+            <e p="View" t="Include">
+              <e p="UnityGraphECGView.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="tp-informatica-medica.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_tp-informatica-medica.2080695660.00" t="ExcludeRecursive" />
+  </component>
+</project>
