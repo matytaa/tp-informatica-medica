@@ -49,13 +49,36 @@
             </e>
           </e>
         </e>
+        <e p="SimpleSpectrum" t="Include">
+          <e p="Demos" t="Include">
+            <e p="Demo Assets" t="Include">
+              <e p="SoundFileOpener.cs" t="Include" />
+            </e>
+            <e p="Music credit to Vexento - Check out his stuff!.txt" t="Include" />
+          </e>
+          <e p="Misc" t="Include">
+            <e p="lightweightGradientLerp.shader" t="Include" />
+            <e p="lightweightGradientLerpSprite.shader" t="Include" />
+            <e p="SurfaceGradientLerp.shader" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="OutputVolumeEditor.cs" t="Include" />
+              <e p="SimpleSpectrumEditor.cs" t="Include" />
+            </e>
+            <e p="OutputVolume.cs" t="Include" />
+            <e p="SimpleSpectrum.cs" t="Include" />
+            <e p="SSWebInteract.cs" t="Include" />
+            <e p="WebGLInject.txt" t="Include" />
+          </e>
+          <e p="SimpleSpectrum_Changelog.txt" t="Include" />
+          <e p="SimpleSpectrum_DOCUMENTATION.txt" t="Include" />
+        </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Temp" t="ExcludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-      </e>
+      <e p="Temp/bin" t="ExcludeRecursive" />
       <e p="tp-informatica-medica.sln" t="IncludeFlat" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />

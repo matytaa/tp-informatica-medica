@@ -78,7 +78,18 @@
     <Compile Include="Assets\PulsePhysiologyEngine\Scripts\PulseEngineDriver.cs" />
     <Compile Include="Assets\PulsePhysiologyEngine\Scripts\PulseRandomValueGenerator.cs" />
     <Compile Include="Assets\Scripts\InformaticaMedica\View\UnityGraphECGView.cs" />
+    <Compile Include="Assets\SimpleSpectrum\Demos\Demo Assets\SoundFileOpener.cs" />
+    <Compile Include="Assets\SimpleSpectrum\Scripts\OutputVolume.cs" />
+    <Compile Include="Assets\SimpleSpectrum\Scripts\SimpleSpectrum.cs" />
+    <Compile Include="Assets\SimpleSpectrum\Scripts\SSWebInteract.cs" />
+    <None Include="Assets\SimpleSpectrum\SimpleSpectrum_DOCUMENTATION.txt" />
     <None Include="Assets\DebugGUI\README.txt" />
+    <None Include="Assets\SimpleSpectrum\SimpleSpectrum_Changelog.txt" />
+    <None Include="Assets\SimpleSpectrum\Misc\lightweightGradientLerpSprite.shader" />
+    <None Include="Assets\SimpleSpectrum\Misc\lightweightGradientLerp.shader" />
+    <None Include="Assets\SimpleSpectrum\Misc\SurfaceGradientLerp.shader" />
+    <None Include="Assets\SimpleSpectrum\Scripts\WebGLInject.txt" />
+    <None Include="Assets\SimpleSpectrum\Demos\Music credit to Vexento - Check out his stuff!.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/matias/Documents/Matias/Facultad/informatica-medica/tp-informatica-medica/tp-informatica-medica/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

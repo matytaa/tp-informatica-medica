@@ -67,6 +67,8 @@
     <Compile Include="Assets\PulsePhysiologyEngine\Scripts\Editor\PulseDataConsumerEditor.cs" />
     <Compile Include="Assets\PulsePhysiologyEngine\Scripts\Editor\PulseEngineControllerEditor.cs" />
     <Compile Include="Assets\PulsePhysiologyEngine\Scripts\Editor\PulseEngineDriverEditor.cs" />
+    <Compile Include="Assets\SimpleSpectrum\Scripts\Editor\OutputVolumeEditor.cs" />
+    <Compile Include="Assets\SimpleSpectrum\Scripts\Editor\SimpleSpectrumEditor.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/matias/Documents/Matias/Facultad/informatica-medica/tp-informatica-medica/tp-informatica-medica/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

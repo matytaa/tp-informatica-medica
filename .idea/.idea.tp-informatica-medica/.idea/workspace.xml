@@ -2,24 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4dca912-ef00-4def-a4f0-60c3ddb0f593" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.tp-informatica-medica/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tp-informatica-medica/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.tp-informatica-medica/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tp-informatica-medica/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Demos/Scenes/ScreenSpace.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Demos/Scenes/ScreenSpace.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseCSVReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseCSVReader.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/f065cc-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/f065cc-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/31816a-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/31816a-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/74/745433874a4594c34bebce034601ce8c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/74/745433874a4594c34bebce034601ce8c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,109 +30,109 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseEngineDriver.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1185">
-              <caret line="87" column="96" selection-start-line="87" selection-start-column="83" selection-end-line="87" selection-end-column="96" />
-              <folding>
-                <marker date="1572281249945" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
-                <marker date="1572281249945" expanded="false" signature="108:223" ph="..." />
-                <marker date="1572281249945" expanded="true" signature="225:339" ph="/* Component used to handle a PulseEngine object, advance its simulation time, ... */" />
-                <marker date="1572281249945" expanded="true" signature="407:5392" ph="{...}" />
-                <marker date="1572281249945" expanded="true" signature="955:1463" ph="{...}" />
-                <marker date="1572281249945" expanded="true" signature="1471:1554" ph="/* MARK: Monobehavior methods ... */" />
-                <marker date="1572281249945" expanded="true" signature="1576:1783" ph="{...}" />
-                <marker date="1572281249945" expanded="true" signature="1591:1722" ph="/* Round down to closest factor of 0.02. Need to use doubles due to ... */" />
-                <marker date="1572281249945" expanded="true" signature="1848:2336" ph="{...}" />
-                <marker date="1572281249945" expanded="true" signature="2417:3842" ph="{...}" />
-                <marker date="1572281249945" expanded="true" signature="2432:2555" ph="/* Ensure we only read data if the application is playing ... */" />
-                <marker date="1572281249945" expanded="true" signature="3176:3435" ph="{...}" />
-                <marker date="1572281249945" expanded="true" signature="3891:5390" ph="{...}" />
-                <marker date="1572281249945" expanded="true" signature="3906:4032" ph="/* Ensure we only broadcast data if the application is playing ... */" />
-                <marker date="1572281249945" expanded="true" signature="4656:5387" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/StreamingAssets/PulseDataFiles/ecg/StandardECG.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="65" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseCSVReader.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="183">
+              <caret line="105" column="50" lean-forward="true" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
+              <folding>
+                <marker date="1573578452933" expanded="false" signature="6:52" ph="..." />
+                <marker date="1573578452933" expanded="true" signature="118:4502" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="613:956" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="708:800" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="979:1073" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="1091:1996" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="1762:1990" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="2015:3856" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="2112:2786" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="2499:2552" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="3303:3850" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="3436:3635" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="3883:4500" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="3919:3991" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="4092:4164" ph="{...}" />
+                <marker date="1573578452933" expanded="true" signature="4337:4494" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/Editor/PulseEngineControllerEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <marker date="1572281249942" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
-                <marker date="1572281249942" expanded="true" signature="108:173" ph="..." />
-                <marker date="1572281249942" expanded="true" signature="302:5250" ph="{...}" />
-                <marker date="1572281249942" expanded="true" signature="661:738" ph="/* MARK: Monobehavior methods ... */" />
-                <marker date="1572281249942" expanded="true" signature="755:955" ph="{...}" />
-                <marker date="1572281249942" expanded="true" signature="1031:1176" ph="{...}" />
-                <marker date="1572281249942" expanded="true" signature="1257:2596" ph="{...}" />
-                <marker date="1572281249942" expanded="true" signature="1272:1378" ph="/* Ensure we only read data if the application is playing ... */" />
-                <marker date="1572281249942" expanded="true" signature="2222:2590" ph="{...}" />
-                <marker date="1572281249942" expanded="true" signature="2648:4302" ph="{...}" />
-                <marker date="1572281249942" expanded="true" signature="2663:2773" ph="/* Ensure we only broadcast data if the application is playing ... */" />
-                <marker date="1572281249942" expanded="true" signature="3360:3519" ph="/* Broadcast all data points that precede the current time, ... */" />
-                <marker date="1572281249942" expanded="true" signature="3592:4296" ph="{...}" />
-                <marker date="1572281249942" expanded="true" signature="3781:3973" ph="{...}" />
-                <marker date="1572281249942" expanded="true" signature="4309:4437" ph="/* MARK: Custom methods ... */" />
-                <marker date="1572281249942" expanded="true" signature="4463:5248" ph="{...}" />
-                <marker date="1572281249942" expanded="true" signature="4536:4608" ph="{...}" />
-                <marker date="1572281249942" expanded="true" signature="4757:4829" ph="{...}" />
-                <marker date="1572281249942" expanded="true" signature="5085:5242" ph="{...}" />
+                <marker date="1572281249942" expanded="false" signature="108:139" ph="..." />
+                <marker date="1572281249942" expanded="true" signature="251:1381" ph="{...}" />
+                <marker date="1572281249942" expanded="true" signature="341:419" ph="{...}" />
+                <marker date="1572281249942" expanded="true" signature="462:1333" ph="{...}" />
+                <marker date="1572281249942" expanded="true" signature="882:1051" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataSource.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/InformaticaMedica/View/UnityGraphECGView.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="720">
+              <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="58" selection-end-column="39" />
+              <folding>
+                <marker date="1572281249967" expanded="false" signature="6:88" ph="..." />
+                <marker date="1572281249967" expanded="true" signature="122:3514" ph="{...}" />
+                <marker date="1572281249967" expanded="true" signature="175:3512" ph="{...}" />
+                <marker date="1572281249967" expanded="true" signature="320:540" ph="{...}" />
+                <marker date="1572281249967" expanded="true" signature="608:1172" ph="{...}" />
+                <marker date="1572281249967" expanded="true" signature="1222:2350" ph="{...}" />
+                <marker date="1572281249967" expanded="true" signature="1474:2340" ph="{...}" />
+                <marker date="1572281249967" expanded="true" signature="1652:2326" ph="{...}" />
+                <marker date="1572281249967" expanded="true" signature="2419:3506" ph="{...}" />
+                <marker date="1572281249967" expanded="true" signature="2442:3233" ph="/* var gameObject = new GameObject(&quot;dotConnection&quot;, typeof(Image)); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataNumberRenderer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
               <folding>
                 <marker date="1572281249944" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
-                <marker date="1572281249944" expanded="true" signature="122:219" ph="/* Abstract class for any pulse data source that holds a reference ... */" />
-                <marker date="1572281249944" expanded="true" signature="272:325" ph="{...}" />
+                <marker date="1572281249944" expanded="false" signature="108:142" ph="..." />
+                <marker date="1572281249944" expanded="true" signature="354:1892" ph="{...}" />
+                <marker date="1572281249944" expanded="true" signature="868:961" ph="/* MARK: Monobehavior methods ... */" />
+                <marker date="1572281249944" expanded="true" signature="978:1061" ph="{...}" />
+                <marker date="1572281249944" expanded="true" signature="1068:1129" ph="/* MARK: PulseDataConsumer methods ... */" />
+                <marker date="1572281249944" expanded="true" signature="1207:1890" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Demos/Data/csv/VitalsMonitorResults1.csv">
+        <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Demos/Scripts/PulseActionOnClick.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="345">
+              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
               <folding>
-                <marker date="1572281249871" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
-                <marker date="1572281249871" expanded="true" signature="131:484" ph="{...}" />
-                <marker date="1572281249871" expanded="true" signature="521:1582" ph="{...}" />
-                <marker date="1572281249871" expanded="true" signature="1619:2231" ph="{...}" />
-                <marker date="1572281249871" expanded="true" signature="2255:2403" ph="{...}" />
-                <marker date="1572281249871" expanded="true" signature="2426:2617" ph="{...}" />
-                <marker date="1572281249871" expanded="true" signature="2674:10038" ph="{...}" />
-                <marker date="1572281249871" expanded="true" signature="2736:10036" ph="{...}" />
-                <marker date="1572281249871" expanded="true" signature="2766:10030" ph="{...}" />
+                <marker date="1572281249943" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
+                <marker date="1572281249943" expanded="false" signature="108:154" ph="..." />
+                <marker date="1572281249943" expanded="true" signature="156:265" ph="/* Serializable List&lt;float&gt; wrapper ... */" />
+                <marker date="1572281249943" expanded="true" signature="310:947" ph="{...}" />
+                <marker date="1572281249943" expanded="true" signature="364:410" ph="{...}" />
+                <marker date="1572281249943" expanded="true" signature="445:499" ph="{...}" />
+                <marker date="1572281249943" expanded="true" signature="523:557" ph="{...}" />
+                <marker date="1572281249943" expanded="true" signature="590:627" ph="{...}" />
+                <marker date="1572281249943" expanded="true" signature="671:712" ph="{...}" />
+                <marker date="1572281249943" expanded="true" signature="744:784" ph="{...}" />
+                <marker date="1572281249943" expanded="true" signature="805:880" ph="{...}" />
+                <marker date="1572281249943" expanded="true" signature="823:874" ph="{...}" />
+                <marker date="1572281249943" expanded="true" signature="906:945" ph="{...}" />
+                <marker date="1572281249943" expanded="true" signature="1024:1263" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -157,173 +158,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataLineRenderer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1378">
-              <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+            <state relative-caret-position="210">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding>
-                <marker date="1572281249943" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
-                <marker date="1572281249943" expanded="true" signature="285:6147" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="941:1018" ph="/* MARK: Monobehavior methods ... */" />
-                <marker date="1572281249943" expanded="true" signature="1035:1231" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="1302:1351" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="1424:1474" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="1550:1892" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="1899:1960" ph="/* MARK: PulseDataConsumer methods ... */" />
-                <marker date="1572281249943" expanded="true" signature="2038:2147" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="2154:2227" ph="/* MARK: Custom methods ... */" />
-                <marker date="1572281249943" expanded="true" signature="2258:3144" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="2436:2670" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="3206:3444" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="3512:3724" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="3794:5893" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="4136:4289" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="4689:5621" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="4872:4998" ph="/* If next point in bound, move current point to the intersection ... */" />
-                <marker date="1572281249943" expanded="true" signature="5088:5496" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="5759:5887" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="5931:6006" ph="{...}" />
-                <marker date="1572281249943" expanded="true" signature="6037:6145" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4836C8E1-98A5-4436-9A81-EECD4FE63491/3d/efa0cb78/MonoBehaviour.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1665">
-              <caret line="116" column="21" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/DebugGUI/DebugGUI.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2100">
-              <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
-              <folding>
-                <marker date="1572281249813" expanded="false" signature="6:136" ph="..." />
-                <marker date="1572281249813" expanded="true" signature="175:32784" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="290:671" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="308:665" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="353:625" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="490:611" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="1777:1873" ph="/// Create or update an existing message with the same key. ... " />
-                <marker date="1572281249813" expanded="true" signature="1938:2033" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="2039:2118" ph="/// Remove an existing persistent message. ... " />
-                <marker date="1572281249813" expanded="true" signature="2170:2259" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="2265:2333" ph="/// Clears all persistent logs. ... " />
-                <marker date="1572281249813" expanded="true" signature="2374:2459" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="2465:2532" ph="/// Print a temporary message. ... " />
-                <marker date="1572281249813" expanded="true" signature="2575:2666" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="2672:3115" ph="/// Set the properties of a graph. ... " />
-                <marker date="1572281249813" expanded="true" signature="3245:3380" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="3386:3557" ph="/// Add a data point to a graph. ... " />
-                <marker date="1572281249813" expanded="true" signature="3609:3694" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="3700:3816" ph="/// Remove an existing graph. ... " />
-                <marker date="1572281249813" expanded="true" signature="3863:3949" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="3955:4068" ph="/// Resets a graph's data. ... " />
-                <marker date="1572281249813" expanded="true" signature="4114:4199" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="4267:4448" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="4503:4600" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="4644:4688" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="4738:4974" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="4790:4968" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="5023:5123" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="5165:5253" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="5308:5501" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="5361:5419" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="5634:5946" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="5996:6129" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="6147:6280" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="6299:8037" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="6404:6463" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="6489:6723" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="6644:6713" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="6750:8031" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="6900:8021" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="7038:8007" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="7163:7989" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="7242:7563" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="7628:7967" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="8055:8204" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="8262:8733" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="8483:8537" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="8922:10644" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="9225:10095" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="9318:10085" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="9477:9733" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="9564:9715" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="9796:10071" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="9890:10053" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="10147:10195" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="10253:10319" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="10363:10416" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="10539:10638" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="10678:10897" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="11062:16087" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="11308:11565" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="11742:12105" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="11807:11972" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="12158:14177" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="12392:14167" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="12491:14153" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="14453:16081" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="14726:16071" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="15514:16034" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="15578:16016" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="16946:18183" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="17090:17182" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="17220:17287" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="17371:17463" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="17501:17570" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="18241:25269" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="18463:24965" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="18890:21775" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="19122:19636" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="19851:21757" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="20030:20278" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="20897:21236" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="22041:24941" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="22277:22799" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="23018:24923" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="23207:23428" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="24055:24398" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="25020:25263" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="25305:26489" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="25371:26483" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="25429:26473" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="25639:25721" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="25901:26437" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="26544:26707" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="26639:26701" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="26732:26976" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="26857:26970" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="27021:32680" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="27560:27729" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="27866:28118" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="28213:29573" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="28278:28375" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="28871:28951" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="29602:29733" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="29664:29723" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="29818:29969" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="30011:30100" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="30182:30824" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="30401:30814" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="30870:30928" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="30938:31157" ph="/* Modified version of: ... */" />
-                <marker date="1572281249813" expanded="true" signature="31245:32561" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="31396:31428" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="31478:31510" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="31652:32093" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="31767:32079" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="31824:31945" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="32110:32551" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="32225:32537" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="32282:32403" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="32600:32674" ph="{...}" />
-                <marker date="1572281249813" expanded="true" signature="32702:32782" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
+                <marker date="1573521885608" expanded="true" signature="285:6147" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="941:1018" ph="/* MARK: Monobehavior methods ... */" />
+                <marker date="1573521885608" expanded="true" signature="1035:1231" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="1302:1351" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="1424:1474" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="1550:1892" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="1899:1960" ph="/* MARK: PulseDataConsumer methods ... */" />
+                <marker date="1573521885608" expanded="true" signature="2038:2147" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="2154:2227" ph="/* MARK: Custom methods ... */" />
+                <marker date="1573521885608" expanded="true" signature="2258:3144" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="2436:2670" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="3206:3444" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="3512:3724" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="3794:5893" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="4136:4289" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="4689:5621" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="4872:4998" ph="/* If next point in bound, move current point to the intersection ... */" />
+                <marker date="1573521885608" expanded="true" signature="5088:5496" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="5759:5887" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="5931:6006" ph="{...}" />
+                <marker date="1573521885608" expanded="true" signature="6037:6145" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -340,6 +199,14 @@
       <find>0.02,</find>
       <find>CSVInput</find>
       <find>-0.039</find>
+      <find>AudioClip</find>
+      <find>filters</find>
+      <find>frequency</find>
+      <find>audioListe</find>
+      <find>audioSource</find>
+      <find>clipData</find>
+      <find>clipLoudness</find>
+      <find>sampleDataLength</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -347,17 +214,30 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/DebugGUI/DebugGUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05523276-EF37-492A-8918-C36E7BB297B4/79/e5743bc8/AudioMixer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InformaticaMedica/View/UnityGraphECGView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4836C8E1-98A5-4436-9A81-EECD4FE63491/74/85f13b1f/TextAsset.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleSpectrum/Scripts/Editor/OutputVolumeEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/Editor/PulseEngineDriverEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/Editor/PulseEngineControllerEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/Editor/PulseDataConsumerEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05523276-EF37-492A-8918-C36E7BB297B4/35/7bed97de/AudioLowPassFilter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Demos/Scripts/PulseActionOnClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4836C8E1-98A5-4436-9A81-EECD4FE63491/bf/8d94aaeb/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05523276-EF37-492A-8918-C36E7BB297B4/f1/43dbc789/AudioClip.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DebugGUI/Examples/DebugGUIExamples.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/b7/a8df0a86/Queue`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InformaticaMedica/View/UnityGraphECGView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05523276-EF37-492A-8918-C36E7BB297B4/84/379877b0/FFTWindow.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4836C8E1-98A5-4436-9A81-EECD4FE63491/dc/18c1bd8f/Vector2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataSource.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseEngineDriver.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseCSVReader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataConsumer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4836C8E1-98A5-4436-9A81-EECD4FE63491/3d/efa0cb78/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Demos/Scripts/PulseActionOnClick.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4836C8E1-98A5-4436-9A81-EECD4FE63491/bf/8d94aaeb/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05523276-EF37-492A-8918-C36E7BB297B4/15/d91db4bf/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleSpectrum/Scripts/OutputVolume.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataNumberRenderer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataLineRenderer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -365,12 +245,13 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/InformaticaMedica/View/UnityGraphECGView.cs" />
         <option value="$PROJECT_DIR$/Assets/DebugGUI/Examples/DebugGUIExamples.cs" />
-        <option value="$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseCSVReader.cs" />
         <option value="$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Demos/Data/csv/VitalsMonitorResults1.csv" />
+        <option value="$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataLineRenderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseCSVReader.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="959" />
@@ -384,7 +265,6 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
@@ -459,14 +339,8 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
               <item name="PulsePhysiologyEngine" type="1045f7f1:UnityExplorerNode" />
-              <item name="StreamingAssets" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="PulsePhysiologyEngine" type="1045f7f1:UnityExplorerNode" />
-              <item name="StreamingAssets" type="1045f7f1:UnityExplorerNode" />
-              <item name="PulseDataFiles" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
             </path>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
@@ -488,6 +362,11 @@
             </path>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="SimpleSpectrum" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Packages" type="4e2708dd:PackagesRoot" />
             </path>
           </expand>
@@ -496,6 +375,7 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -524,10 +404,10 @@
       <option name="pid" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="33399">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="12508">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="33399" />
+      <option name="pid" value="12508" />
       <method v="2" />
     </configuration>
   </component>
@@ -546,11 +426,13 @@
       <workItem from="1570552381070" duration="1986000" />
       <workItem from="1571330991986" duration="1612000" />
       <workItem from="1572310543895" duration="2016000" />
+      <workItem from="1573521462237" duration="10420000" />
+      <workItem from="1573573172449" duration="2334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14281000" />
+    <option name="totallyTimeSpent" value="30064000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -562,15 +444,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="959" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="959" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -580,12 +461,13 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.498779" weight="0.3298731" />
       <window_info anchor="bottom" id="Unity" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.501221" side_tool="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Messages" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -657,25 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InformaticaMedica/View/UnityGraphECGView.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="58" selection-end-column="39" />
-          <folding>
-            <marker date="1572281249967" expanded="false" signature="6:88" ph="..." />
-            <marker date="1572281249967" expanded="true" signature="122:3514" ph="{...}" />
-            <marker date="1572281249967" expanded="true" signature="175:3512" ph="{...}" />
-            <marker date="1572281249967" expanded="true" signature="320:540" ph="{...}" />
-            <marker date="1572281249967" expanded="true" signature="608:1172" ph="{...}" />
-            <marker date="1572281249967" expanded="true" signature="1222:2350" ph="{...}" />
-            <marker date="1572281249967" expanded="true" signature="1474:2340" ph="{...}" />
-            <marker date="1572281249967" expanded="true" signature="1652:2326" ph="{...}" />
-            <marker date="1572281249967" expanded="true" signature="2419:3506" ph="{...}" />
-            <marker date="1572281249967" expanded="true" signature="2442:3233" ph="/* var gameObject = new GameObject(&quot;dotConnection&quot;, typeof(Image)); ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/DebugGUI/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -702,10 +565,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/StreamingAssets/PulseDataFiles/ecg/StandardECG.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Demos/Scripts/PulseActionOnClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <marker date="1572281249871" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
+            <marker date="1572281249871" expanded="true" signature="131:484" ph="{...}" />
+            <marker date="1572281249871" expanded="true" signature="521:1582" ph="{...}" />
+            <marker date="1572281249871" expanded="true" signature="1619:2231" ph="{...}" />
+            <marker date="1572281249871" expanded="true" signature="2255:2403" ph="{...}" />
+            <marker date="1572281249871" expanded="true" signature="2426:2617" ph="{...}" />
+            <marker date="1572281249871" expanded="true" signature="2674:10038" ph="{...}" />
+            <marker date="1572281249871" expanded="true" signature="2736:10036" ph="{...}" />
+            <marker date="1572281249871" expanded="true" signature="2766:10030" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataSource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <marker date="1572281249944" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
+            <marker date="1572281249944" expanded="true" signature="122:219" ph="/* Abstract class for any pulse data source that holds a reference ... */" />
+            <marker date="1572281249944" expanded="true" signature="272:325" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseEngineDriver.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="87" column="96" selection-start-line="87" selection-start-column="83" selection-end-line="87" selection-end-column="96" />
+        <state relative-caret-position="1215">
+          <caret line="89" column="39" selection-start-line="89" selection-start-column="39" selection-end-line="89" selection-end-column="39" />
           <folding>
             <marker date="1572281249945" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
             <marker date="1572281249945" expanded="false" signature="108:223" ph="..." />
@@ -726,10 +626,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/StreamingAssets/PulseDataFiles/ecg/StandardECG.json">
+    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Demos/Data/csv/VitalsMonitorResults1.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="65" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="65" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -871,20 +771,240 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Demos/Scripts/PulseActionOnClick.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05523276-EF37-492A-8918-C36E7BB297B4/79/e5743bc8/AudioMixer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05523276-EF37-492A-8918-C36E7BB297B4/f1/43dbc789/AudioClip.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
           <folding>
-            <marker date="1572281249871" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
-            <marker date="1572281249871" expanded="true" signature="131:484" ph="{...}" />
-            <marker date="1572281249871" expanded="true" signature="521:1582" ph="{...}" />
-            <marker date="1572281249871" expanded="true" signature="1619:2231" ph="{...}" />
-            <marker date="1572281249871" expanded="true" signature="2255:2403" ph="{...}" />
-            <marker date="1572281249871" expanded="true" signature="2426:2617" ph="{...}" />
-            <marker date="1572281249871" expanded="true" signature="2674:10038" ph="{...}" />
-            <marker date="1572281249871" expanded="true" signature="2736:10036" ph="{...}" />
-            <marker date="1572281249871" expanded="true" signature="2766:10030" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="0:317" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1572483991236" expanded="false" signature="325:400" ph="..." />
+            <marker date="1572483991236" expanded="true" signature="423:11656" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="428:507" ph="///   &lt;para&gt;A container for audio data.&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="548:11654" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="576:588" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="594:702" ph="///   &lt;para&gt;The length of the audio clip in seconds. (Read Only)&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="826:934" ph="///   &lt;para&gt;The length of the audio clip in samples. (Read Only)&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="1057:1166" ph="///   &lt;para&gt;The number of channels in the audio clip. (Read Only)&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="1290:1400" ph="///   &lt;para&gt;The sample frequency of the clip in Hertz. (Read Only)&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="1525:1640" ph="///   &lt;para&gt;Returns true if the AudioClip is ready to play (read-only).&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="1880:1974" ph="///   &lt;para&gt;The load type of the clip (read-only).&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="2112:2375" ph="///   &lt;para&gt;Loads the audio data of a clip. Clips that have &quot;Preload Audio Data&quot; set will load the audio data aut ... " />
+            <marker date="1572483991236" expanded="true" signature="2508:2782" ph="///   &lt;para&gt;Unloads the audio data associated with the clip. This works only for AudioClips that are based on act ... " />
+            <marker date="1572483991236" expanded="true" signature="2917:3250" ph="///   &lt;para&gt;Preloads audio data of the clip when the clip asset is loaded. When this flag is off, scripts have to ... " />
+            <marker date="1572483991236" expanded="true" signature="3383:3496" ph="///   &lt;para&gt;Returns true if this audio clip is ambisonic (read-only).&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="3622:3756" ph="///   &lt;para&gt;Returns the current load state of the audio data associated with an AudioClip.&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="3896:4105" ph="///   &lt;para&gt;Corresponding to the &quot;Load In Background&quot; flag in the inspector, when this flag is set, the loading w ... " />
+            <marker date="1572483991236" expanded="true" signature="4238:4421" ph="///   &lt;para&gt;Fills an array with sample data from the clip.&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="4579:4742" ph="///   &lt;para&gt;Set sample data in a clip.&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="4900:5937" ph="///   &lt;para&gt;Creates a user AudioClip with a name and with the given length in samples, channels and frequency.&lt;/p ... " />
+            <marker date="1572483991236" expanded="true" signature="6246:6339" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="6702:6855" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="7281:7417" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="7423:8460" ph="///   &lt;para&gt;Creates a user AudioClip with a name and with the given length in samples, channels and frequency.&lt;/p ... " />
+            <marker date="1572483991236" expanded="true" signature="8600:8770" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="8964:9117" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="9374:10181" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="10433:10543" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="10640:10764" ph="{...}" />
+            <marker date="1572483991236" expanded="true" signature="11148:11338" ph="///   &lt;para&gt;Delegate called each time AudioClip reads data.&lt;/para&gt; ... " />
+            <marker date="1572483991236" expanded="true" signature="11402:11587" ph="///   &lt;para&gt;Delegate called each time AudioClip changes read position.&lt;/para&gt; ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05523276-EF37-492A-8918-C36E7BB297B4/84/379877b0/FFTWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05523276-EF37-492A-8918-C36E7BB297B4/35/7bed97de/AudioLowPassFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05523276-EF37-492A-8918-C36E7BB297B4/15/d91db4bf/AudioSource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+          <folding>
+            <marker date="1573523924219" expanded="true" signature="0:319" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1573523924219" expanded="false" signature="327:484" ph="..." />
+            <marker date="1573523924219" expanded="true" signature="507:27588" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="512:604" ph="///   &lt;para&gt;A representation of audio sources in 3D.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="696:27586" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="876:976" ph="///   &lt;para&gt;The volume of the audio source (0.0 to 1.0).&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="1183:1269" ph="///   &lt;para&gt;The pitch of the audio source.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="1475:1560" ph="///   &lt;para&gt;Playback position in seconds.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="1765:1854" ph="///   &lt;para&gt;Playback position in PCM samples.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="2097:2183" ph="///   &lt;para&gt;The default AudioClip to play.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="2425:2547" ph="///   &lt;para&gt;The target group to which the AudioSource should route its signal.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="2779:3025" ph="///   &lt;para&gt;Plays the clip.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="3220:3254" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="3260:3609" ph="///   &lt;para&gt;Plays the clip with a delay specified in seconds. Users are advised to use this function instead of t ... " />
+            <marker date="1573523924219" expanded="true" signature="3751:4060" ph="///   &lt;para&gt;Plays the clip at a specific time on the absolute time-line that AudioSettings.dspTime reads from.&lt;/p ... " />
+            <marker date="1573523924219" expanded="true" signature="4204:4397" ph="///   &lt;para&gt;Changes the time at which a sound that has already been scheduled to play will start.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="4549:4824" ph="///   &lt;para&gt;Changes the time at which a sound that has already been scheduled to play will end. Notice that depen ... " />
+            <marker date="1573523924219" expanded="true" signature="4974:5053" ph="///   &lt;para&gt;Stops playing the clip.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="5177:5257" ph="///   &lt;para&gt;Pauses playing the clip.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="5281:5338" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="5502:5606" ph="///   &lt;para&gt;Unpause the paused playback of this AudioSource.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="5632:5691" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="5857:5955" ph="///   &lt;para&gt;Is the clip playing right now (Read Only)?&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="6081:6280" ph="///   &lt;para&gt;True if all sounds played by the AudioSource (main sound started by Play() or playOnAwake as well as  ... " />
+            <marker date="1573523924219" expanded="true" signature="6406:6662" ph="///   &lt;para&gt;Plays an AudioClip, and scales the AudioSource volume by volumeScale.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="6728:6813" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="6819:7075" ph="///   &lt;para&gt;Plays an AudioClip, and scales the AudioSource volume by volumeScale.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="7161:7505" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="7227:7450" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="7768:7859" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="7865:8176" ph="///   &lt;para&gt;Plays an AudioClip at a given position in world space.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="8271:8367" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="8373:8684" ph="///   &lt;para&gt;Plays an AudioClip at a given position in world space.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="8794:9272" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="9278:9360" ph="///   &lt;para&gt;Is the audio clip looping?&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="9564:9703" ph="///   &lt;para&gt;This makes the audio source not take into account the volume of the audio listener.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="9923:10054" ph="///   &lt;para&gt;If set to true, the audio source will automatically start playing on awake.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="10265:10474" ph="///   &lt;para&gt;Allows AudioSource to play even though AudioListener.pause is set to true. This is useful for the men ... " />
+            <marker date="1573523924219" expanded="true" signature="10693:10823" ph="///   &lt;para&gt;Whether the Audio Source should be updated in the fixed or dynamic update.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="11060:11222" ph="///   &lt;para&gt;Pans a playing sound in a stereo way (left or right). This only applies to sounds that are Mono or St ... " />
+            <marker date="1573523924219" expanded="true" signature="11432:11643" ph="///   &lt;para&gt;Sets how much this AudioSource is affected by 3D spatialisation calculations (attenuation, doppler et ... " />
+            <marker date="1573523924219" expanded="true" signature="12071:12162" ph="///   &lt;para&gt;Enables or disables spatialization.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="12189:12663" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="12205:12261" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="12271:12657" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="12403:12649" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="12669:12809" ph="///   &lt;para&gt;Determines if the spatializer effect is inserted before or after the effect filters.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="13030:13306" ph="///   &lt;para&gt;Set the custom curve for the given AudioSourceCurveType.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="13487:13790" ph="///   &lt;para&gt;Get the current custom curve for the given AudioSourceCurveType.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="13959:14137" ph="///   &lt;para&gt;The amount by which the signal from the AudioSource will be mixed into the global reverb associated w ... " />
+            <marker date="1573523924219" expanded="true" signature="14351:14482" ph="///   &lt;para&gt;Bypass effects (Applied from filter components or global listener filters).&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="14695:14930" ph="///   &lt;para&gt;When set global effects on the AudioListener will not be applied to the audio signal generated by the ... " />
+            <marker date="1573523924219" expanded="true" signature="15151:15313" ph="///   &lt;para&gt;When set doesn't route the signal from an AudioSource into the global reverb associated with reverb z ... " />
+            <marker date="1573523924219" expanded="true" signature="15530:15630" ph="///   &lt;para&gt;Sets the Doppler scale for this AudioSource.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="15843:15988" ph="///   &lt;para&gt;Sets the spread angle (in degrees) of a 3d stereo or multichannel sound in speaker space.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="16195:16288" ph="///   &lt;para&gt;Sets the priority of the AudioSource.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="16495:16640" ph="///   &lt;para&gt;Un- / Mutes the AudioSource. Mute sets the volume=0, Un-Mute restore the original volume.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="16844:16976" ph="///   &lt;para&gt;Within the Min distance the AudioSource will cease to grow louder in volume.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="17188:17323" ph="///   &lt;para&gt;(Logarithmic rolloff) MaxDistance is the distance a sound stops attenuating at.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="17535:17646" ph="///   &lt;para&gt;Sets/Gets how the AudioSource attenuates over distance.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="18032:18251" ph="///   &lt;para&gt;Deprecated Version. Returns a block of the currently playing source's output data.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="18434:18565" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="18571:18869" ph="///   &lt;para&gt;Provides a block of the currently playing source's output data.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="18929:18991" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="19180:19562" ph="///   &lt;para&gt;Deprecated Version. Returns a block of the currently playing source's spectrum data.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="19772:19913" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="19919:20303" ph="///   &lt;para&gt;Provides a block of the currently playing audio source's spectrum data.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="20383:20455" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="20684:20803" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="21103:21263" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="21563:21731" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="22268:22404" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="22859:23001" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="23392:23487" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="23795:24018" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="24102:24319" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="25269:25685" ph="///   &lt;para&gt;Sets a user-defined parameter of a custom spatializer effect that is attached to an AudioSource.&lt;/par ... " />
+            <marker date="1573523924219" expanded="true" signature="26006:26428" ph="///   &lt;para&gt;Sets a user-defined parameter of a custom ambisonic decoder effect that is attached to an AudioSource ... " />
+            <marker date="1573523924219" expanded="true" signature="26759:26870" ph="///   &lt;para&gt;PanLevel has been deprecated. Use spatialBlend instead.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="27083:27181" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="27099:27149" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="27159:27175" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="27187:27290" ph="///   &lt;para&gt;Pan has been deprecated. Use panStereo instead.&lt;/para&gt; ... " />
+            <marker date="1573523924219" expanded="true" signature="27487:27582" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="27503:27550" ph="{...}" />
+            <marker date="1573523924219" expanded="true" signature="27560:27576" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/Editor/PulseEngineControllerEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <marker date="1572281249942" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
+            <marker date="1572281249942" expanded="false" signature="108:139" ph="..." />
+            <marker date="1572281249942" expanded="true" signature="251:1381" ph="{...}" />
+            <marker date="1572281249942" expanded="true" signature="341:419" ph="{...}" />
+            <marker date="1572281249942" expanded="true" signature="462:1333" ph="{...}" />
+            <marker date="1572281249942" expanded="true" signature="882:1051" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InformaticaMedica/View/UnityGraphECGView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="58" selection-end-column="39" />
+          <folding>
+            <marker date="1572281249967" expanded="false" signature="6:88" ph="..." />
+            <marker date="1572281249967" expanded="true" signature="122:3514" ph="{...}" />
+            <marker date="1572281249967" expanded="true" signature="175:3512" ph="{...}" />
+            <marker date="1572281249967" expanded="true" signature="320:540" ph="{...}" />
+            <marker date="1572281249967" expanded="true" signature="608:1172" ph="{...}" />
+            <marker date="1572281249967" expanded="true" signature="1222:2350" ph="{...}" />
+            <marker date="1572281249967" expanded="true" signature="1474:2340" ph="{...}" />
+            <marker date="1572281249967" expanded="true" signature="1652:2326" ph="{...}" />
+            <marker date="1572281249967" expanded="true" signature="2419:3506" ph="{...}" />
+            <marker date="1572281249967" expanded="true" signature="2442:3233" ph="/* var gameObject = new GameObject(&quot;dotConnection&quot;, typeof(Image)); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataLineRenderer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <marker date="1573521885608" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
+            <marker date="1573521885608" expanded="true" signature="285:6147" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="941:1018" ph="/* MARK: Monobehavior methods ... */" />
+            <marker date="1573521885608" expanded="true" signature="1035:1231" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="1302:1351" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="1424:1474" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="1550:1892" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="1899:1960" ph="/* MARK: PulseDataConsumer methods ... */" />
+            <marker date="1573521885608" expanded="true" signature="2038:2147" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="2154:2227" ph="/* MARK: Custom methods ... */" />
+            <marker date="1573521885608" expanded="true" signature="2258:3144" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="2436:2670" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="3206:3444" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="3512:3724" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="3794:5893" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="4136:4289" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="4689:5621" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="4872:4998" ph="/* If next point in bound, move current point to the intersection ... */" />
+            <marker date="1573521885608" expanded="true" signature="5088:5496" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="5759:5887" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="5931:6006" ph="{...}" />
+            <marker date="1573521885608" expanded="true" signature="6037:6145" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataNumberRenderer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <marker date="1572281249944" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
+            <marker date="1572281249944" expanded="false" signature="108:142" ph="..." />
+            <marker date="1572281249944" expanded="true" signature="354:1892" ph="{...}" />
+            <marker date="1572281249944" expanded="true" signature="868:961" ph="/* MARK: Monobehavior methods ... */" />
+            <marker date="1572281249944" expanded="true" signature="978:1061" ph="{...}" />
+            <marker date="1572281249944" expanded="true" signature="1068:1129" ph="/* MARK: PulseDataConsumer methods ... */" />
+            <marker date="1572281249944" expanded="true" signature="1207:1890" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -904,80 +1024,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataLineRenderer.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1378">
-          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+        <state relative-caret-position="345">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
           <folding>
             <marker date="1572281249943" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
-            <marker date="1572281249943" expanded="true" signature="285:6147" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="941:1018" ph="/* MARK: Monobehavior methods ... */" />
-            <marker date="1572281249943" expanded="true" signature="1035:1231" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="1302:1351" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="1424:1474" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="1550:1892" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="1899:1960" ph="/* MARK: PulseDataConsumer methods ... */" />
-            <marker date="1572281249943" expanded="true" signature="2038:2147" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="2154:2227" ph="/* MARK: Custom methods ... */" />
-            <marker date="1572281249943" expanded="true" signature="2258:3144" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="2436:2670" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="3206:3444" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="3512:3724" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="3794:5893" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="4136:4289" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="4689:5621" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="4872:4998" ph="/* If next point in bound, move current point to the intersection ... */" />
-            <marker date="1572281249943" expanded="true" signature="5088:5496" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="5759:5887" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="5931:6006" ph="{...}" />
-            <marker date="1572281249943" expanded="true" signature="6037:6145" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Demos/Data/csv/VitalsMonitorResults1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseDataSource.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <marker date="1572281249944" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
-            <marker date="1572281249944" expanded="true" signature="122:219" ph="/* Abstract class for any pulse data source that holds a reference ... */" />
-            <marker date="1572281249944" expanded="true" signature="272:325" ph="{...}" />
+            <marker date="1572281249943" expanded="false" signature="108:154" ph="..." />
+            <marker date="1572281249943" expanded="true" signature="156:265" ph="/* Serializable List&lt;float&gt; wrapper ... */" />
+            <marker date="1572281249943" expanded="true" signature="310:947" ph="{...}" />
+            <marker date="1572281249943" expanded="true" signature="364:410" ph="{...}" />
+            <marker date="1572281249943" expanded="true" signature="445:499" ph="{...}" />
+            <marker date="1572281249943" expanded="true" signature="523:557" ph="{...}" />
+            <marker date="1572281249943" expanded="true" signature="590:627" ph="{...}" />
+            <marker date="1572281249943" expanded="true" signature="671:712" ph="{...}" />
+            <marker date="1572281249943" expanded="true" signature="744:784" ph="{...}" />
+            <marker date="1572281249943" expanded="true" signature="805:880" ph="{...}" />
+            <marker date="1572281249943" expanded="true" signature="823:874" ph="{...}" />
+            <marker date="1572281249943" expanded="true" signature="906:945" ph="{...}" />
+            <marker date="1572281249943" expanded="true" signature="1024:1263" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PulsePhysiologyEngine/Scripts/PulseCSVReader.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="183">
+          <caret line="105" column="50" lean-forward="true" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
           <folding>
-            <marker date="1572281249942" expanded="true" signature="0:100" ph="/* Distributed under the Apache License, Version 2.0. ... */" />
-            <marker date="1572281249942" expanded="true" signature="108:173" ph="..." />
-            <marker date="1572281249942" expanded="true" signature="302:5250" ph="{...}" />
-            <marker date="1572281249942" expanded="true" signature="661:738" ph="/* MARK: Monobehavior methods ... */" />
-            <marker date="1572281249942" expanded="true" signature="755:955" ph="{...}" />
-            <marker date="1572281249942" expanded="true" signature="1031:1176" ph="{...}" />
-            <marker date="1572281249942" expanded="true" signature="1257:2596" ph="{...}" />
-            <marker date="1572281249942" expanded="true" signature="1272:1378" ph="/* Ensure we only read data if the application is playing ... */" />
-            <marker date="1572281249942" expanded="true" signature="2222:2590" ph="{...}" />
-            <marker date="1572281249942" expanded="true" signature="2648:4302" ph="{...}" />
-            <marker date="1572281249942" expanded="true" signature="2663:2773" ph="/* Ensure we only broadcast data if the application is playing ... */" />
-            <marker date="1572281249942" expanded="true" signature="3360:3519" ph="/* Broadcast all data points that precede the current time, ... */" />
-            <marker date="1572281249942" expanded="true" signature="3592:4296" ph="{...}" />
-            <marker date="1572281249942" expanded="true" signature="3781:3973" ph="{...}" />
-            <marker date="1572281249942" expanded="true" signature="4309:4437" ph="/* MARK: Custom methods ... */" />
-            <marker date="1572281249942" expanded="true" signature="4463:5248" ph="{...}" />
-            <marker date="1572281249942" expanded="true" signature="4536:4608" ph="{...}" />
-            <marker date="1572281249942" expanded="true" signature="4757:4829" ph="{...}" />
-            <marker date="1572281249942" expanded="true" signature="5085:5242" ph="{...}" />
+            <marker date="1573578452933" expanded="false" signature="6:52" ph="..." />
+            <marker date="1573578452933" expanded="true" signature="118:4502" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="613:956" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="708:800" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="979:1073" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="1091:1996" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="1762:1990" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="2015:3856" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="2112:2786" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="2499:2552" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="3303:3850" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="3436:3635" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="3883:4500" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="3919:3991" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="4092:4164" ph="{...}" />
+            <marker date="1573578452933" expanded="true" signature="4337:4494" ph="{...}" />
           </folding>
         </state>
       </provider>
